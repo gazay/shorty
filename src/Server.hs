@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
-module Server where
+module Main where
 
 import Web.Scotty
 import Network.URI (parseURI)
