@@ -14,6 +14,7 @@ executable shorty
   build-depends:       base >=4.7 && <4.8
                      , scotty
                      , network-uri
+                     , postgresql-simple
 
   hs-source-dirs:      src
 
